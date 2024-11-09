@@ -1,0 +1,42 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+Logs/
+*.txt
+
+# TensorFlow checkpoints
+*.ckpt
+*.h5
+checkpoint/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Data files
+data/
+*.csv
+*.hdf5
+*.npz
+
+# Miscellaneous
+*.DS_Store
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
