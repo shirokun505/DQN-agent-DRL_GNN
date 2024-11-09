@@ -5,10 +5,6 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Logs
-*.log
-Logs/
-*.txt
 
 # TensorFlow checkpoints
 *.ckpt
